@@ -9,7 +9,7 @@ extensions={
 "softwares":[".exe",".rar"],
 "music":[".mp3",".wav"],
 "videos":[".mp4",".3gp"],
-"pics":[".jpeg",".png",".jpg",".JPG"]
+"pics":[".jpeg",".png",".jpg",".JPG",".JPEG"]
 }
 
 
